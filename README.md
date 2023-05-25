@@ -44,7 +44,7 @@ Run the server
 
 ## Output:
 ![PRAVEENBV](https://github.com/Praveen22042005/places-around-me/assets/112475766/271b83fb-4510-4393-a1aa-710c92b8a7d0)
-![125](https://github.com/Praveen22042005/places-around-me/assets/112475766/335ce8e1-60ba-42f0-8212-e9fcaf1ab4b4)
+![125](https://github.com/Praveen22042005/places-around-me/assets/112475766/8b8fd150-d1bb-4883-a5d4-66d60f17159c)
 
 
 
